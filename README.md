@@ -1,4 +1,4 @@
-# PortforlioProjects
+# DATA EXPLORATION WITH SQL
 A data exploration project using  CovidDeath and CovidVaccinations data to determine 
 - Total Cases globally
 - Total Deaths globally
